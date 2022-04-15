@@ -1,0 +1,18 @@
+#,Country,Pop,Government,Multilingual,EU Member,Democracy Index,Total Area,HDI,Median Age,GDP/Capita
+1,Ukraine,41,Republic,False,False,5.57,603700,0.743,41.2,9308
+2,France,67,Republic,False,True,7.99,551695,0.897,41.7,41761
+3,Spain,46,Constitutional Monarchy,False,True,7.94,498468,0.884,43.9,29651
+4,Sweden,10,Unitary Constitutional Monarchy,False,True,9.26,447425,0.913,41.1,54628
+5,Norway,5,Unitary Constitutional Monarchy,True,False,9.75,385207,0.949,39.5,71497
+6,Germany,86,Federal Republic,False,True,8.67,357112,0.926,47.8,41243
+7,Finland,5,Parliamentary Republic,True,True,9.27,338449,0.895,42.8,46430
+8,Poland,40,Semi-Presidential Republic,False,True,6.80,312685,0.855,41.9,33264
+9,Italy,60,Republic,False,True,7.68,301340,0.887,46.5,37905
+10,United Kingdom,65,Constitutional Monarchy,False,False,8.10,243610,0.909,40.6,44001
+11,Romania,19,Republic,False,True,6.43,238391,0.802,42.5,8995
+12,Belarus,9,Republic,False,False,2.41,207600,N/A,40.9,17496
+13,Greence,10,Republic,False,True,7.56,131940,0.866,45.3,23518
+14,Bulgaria,7,Parliamentary Republic,False,True,6.64,110879,0.795,43.7,20116
+15,Iceland,0.3,Parliamentary Republic,False,False,9.18,103000,0.921,37.1,55005
+16,Hungary,9,Republic,False,True,6.50,93028,0.836,43.6,12778
+17,Portugal,10,Republic,False,True,7.82,92090,0.843,44.6,27000
